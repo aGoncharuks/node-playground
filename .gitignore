@@ -1,0 +1,10 @@
+# Build folder
+/dist
+
+# NPM folder
+/node_modules
+
+#Other files
+.idea
+npm-debug.log
+bash.exe.stackdump
